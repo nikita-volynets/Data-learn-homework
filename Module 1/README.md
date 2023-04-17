@@ -27,10 +27,14 @@
 
 + Создал сводные таблицы по различным метрикам для Дэшборда
 
-
+![Pivot](https://github.com/nikita-volynets/Data-learn-homework/blob/9c651703a0e10c3e905815c947f5f84691e51a83/Module%201/Picture_Pivot.JPG)
 
 + Для вычисление некоторыех метрик использовал вычисляемые столбцы в сводных
 
+![Calculated](https://github.com/nikita-volynets/Data-learn-homework/blob/9c651703a0e10c3e905815c947f5f84691e51a83/Module%201/Picture_Calculated_Column.JPG)
+
 + Отключил авторегулирование размера в сводных таблицах для улучшения быстродействия
+
+![Autofit](https://github.com/nikita-volynets/Data-learn-homework/blob/9c651703a0e10c3e905815c947f5f84691e51a83/Module%201/Picture_Autofit.JPG)
 
 ### Бизнес-логика и создание Дэшборда
