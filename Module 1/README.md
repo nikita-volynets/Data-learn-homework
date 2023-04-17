@@ -2,7 +2,7 @@
 
 ## Architecture of Analytical solution (Pharmaceutical company)
 
-[Ссылка на файл в draw.io](https://github.com/nikita-volynets/Data-learn-homework/blob/fa1775525d017a9bc974455457bf65e0bc965867/Module%201/Ar%D1%81hitecture_Pharma.drawio)
+[File line in draw.io](https://github.com/nikita-volynets/Data-learn-homework/blob/fa1775525d017a9bc974455457bf65e0bc965867/Module%201/Ar%D1%81hitecture_Pharma.drawio)
 
 Created with draw.io Architecture of Analytical solution for pharmaceutical company.
 
@@ -10,7 +10,7 @@ Created with draw.io Architecture of Analytical solution for pharmaceutical comp
 
 ## Analytics in Excel (Superstore)
 
-[Ссылка на файл с Дэшбордом в Excel](https://github.com/nikita-volynets/Data-learn-homework/blob/f080ab1d5acdc44fa0dd994820fb1acf0e49c38c/Module%201/Excel%20Dashboard%20-%20Superstore.xlsx)
+[Dashboard file link in Excel](https://github.com/nikita-volynets/Data-learn-homework/blob/f080ab1d5acdc44fa0dd994820fb1acf0e49c38c/Module%201/Excel%20Dashboard%20-%20Superstore.xlsx)
 
 ### Excel features
 
