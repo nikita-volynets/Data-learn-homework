@@ -5,4 +5,4 @@
 Создал с помощью draw.io схему аналитического решения для Фармацевтической компании.
 
 
-![Schema](https://github.com/nikita-volynets/Data-learn-homework/blob/9752be611d639bbbf67ee863bce135aee687e69b/Module%201/Architecture_Pharma.JPG)
+![Schema](https://github.com/nikita-volynets/Data-learn-homework/blob/c86e0cce53fb215d72d93a00dd6fdc8bf739ce5b/Module%201/Architecture_Pharma.JPG)
