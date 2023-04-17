@@ -6,7 +6,7 @@
 
 Создал с помощью draw.io схему аналитического решения для Фармацевтической компании.
 
-![Schema](https://github.com/nikita-volynets/Data-learn-homework/blob/c819970be16a2bf72dccdb6e068cb853df11386c/Module%201/Architecture_Pharma.JPG)
+![Schema](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Architecture_Pharma.JPG)
 
 ## Аналитика в Excel (Superstore)
 
@@ -30,31 +30,31 @@
 
 + Создал сводные таблицы по различным метрикам для Дэшборда
 
-![Pivot](https://github.com/nikita-volynets/Data-learn-homework/blob/9c651703a0e10c3e905815c947f5f84691e51a83/Module%201/Picture_Pivot.JPG)
+![Pivot](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Picture_Pivot.JPG)
 
 + Для вычисление некоторых метрик использовал вычисляемые столбцы в сводных таблицах
 
-![Calculated](https://github.com/nikita-volynets/Data-learn-homework/blob/9c651703a0e10c3e905815c947f5f84691e51a83/Module%201/Picture_Calculated_Column.JPG)
+![Calculated](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Picture_Calculated_Column.JPG)
 
 + Отключил авторегулирование размера в сводных таблицах для улучшения быстродействия
 
-![Autofit](https://github.com/nikita-volynets/Data-learn-homework/blob/9c651703a0e10c3e905815c947f5f84691e51a83/Module%201/Picture_Autofit.JPG)
+![Autofit](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Picture_Autofit.JPG)
 
 ### Дэшборд
 
 1. Overview - Название, фильтры в виде срезов и ключевые метрики
 
-![Overview]()
+![Overview](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Image_Overview.JPG)
 
 2. Динамика выручки и прибыли, а также прибыль по сотрудникам
 
-![Dynamic]()
+![Dynamic](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Image_Dynamic.JPG)
 
 3. Продажи продуктов по категориям, а также ТОП-5 клиентов в каждой категории
 
-![Category]()
+![Category](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Image_Category.JPG)
 
 4. Прибыль по штатам США
 
-![Geo]()
+![Geo](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Image_Geo.JPG)
 
