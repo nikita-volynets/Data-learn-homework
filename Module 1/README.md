@@ -2,7 +2,7 @@
 
 ## Architecture of Analytical solution (Pharmaceutical company)
 
-[File line in draw.io](https://github.com/nikita-volynets/Data-learn-homework/blob/fa1775525d017a9bc974455457bf65e0bc965867/Module%201/Ar%D1%81hitecture_Pharma.drawio)
+[File link in draw.io](https://github.com/nikita-volynets/Data-learn-homework/blob/fa1775525d017a9bc974455457bf65e0bc965867/Module%201/Ar%D1%81hitecture_Pharma.drawio)
 
 Created with draw.io Architecture of Analytical solution for pharmaceutical company.
 
@@ -36,7 +36,7 @@ Created Dashboard with Excel based on the raw Supersotre file.
 
 ![Calculated](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Picture_Calculated_Column.JPG)
 
-+ Disabled auto-size adjustment in pivot tables to improve performance
++ Disabled autofit columns update in pivot tables to improve performance
 
 ![Autofit](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Picture_Autofit.JPG)
 
@@ -50,7 +50,7 @@ Created Dashboard with Excel based on the raw Supersotre file.
 
 ![Dynamic](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Image_Dynamic.JPG)
 
-3. Sales by categories, TOP-5 customers by category
+3. Sales and Profit by categoriy, TOP-5 clients in each segment
 
 ![Category](https://github.com/nikita-volynets/Data-learn-homework/blob/ed9a6955b87b96913e4409e4b978bc22574571df/Module%201/Images/Image_Category.JPG)
 
