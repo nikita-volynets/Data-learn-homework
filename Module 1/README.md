@@ -10,7 +10,7 @@
 
 ## Аналитика в Excel (Superstore)
 
-[Ссылка Дэшборд в Excel](https://github.com/nikita-volynets/Data-learn-homework/blob/f080ab1d5acdc44fa0dd994820fb1acf0e49c38c/Module%201/Excel%20Dashboard%20-%20Superstore.xlsx)
+[Ссылка на файл с Дэшбордом в Excel](https://github.com/nikita-volynets/Data-learn-homework/blob/f080ab1d5acdc44fa0dd994820fb1acf0e49c38c/Module%201/Excel%20Dashboard%20-%20Superstore.xlsx)
 
 ### Функционал Excel
 
