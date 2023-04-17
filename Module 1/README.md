@@ -10,6 +10,8 @@
 
 ## Аналитика в Excel (Superstore)
 
+[Ссылка Дэшборд в Excel](https://github.com/nikita-volynets/Data-learn-homework/blob/f080ab1d5acdc44fa0dd994820fb1acf0e49c38c/Module%201/Excel%20Dashboard%20-%20Superstore.xlsx)
+
 ### Функционал Excel
 
 С пощью Excel создал Дэшборд на основе данных из файла Superstore.
@@ -39,3 +41,5 @@
 ![Autofit](https://github.com/nikita-volynets/Data-learn-homework/blob/9c651703a0e10c3e905815c947f5f84691e51a83/Module%201/Picture_Autofit.JPG)
 
 ### Бизнес-логика и создание Дэшборда
+
+
