@@ -46,7 +46,14 @@ ORDER BY profit DESC;
 4. Sales and Profit by Category
 
 ```sql
-
+SELECT DISTINCT 
+	segment ,
+	category ,
+	SUM(sales) sales,
+	SUM(profit) profit
+FROM orders o
+GROUP BY segment , category  
+ORDER BY segment ; 
 ```
 
 5. TOP-5 Clients in each segment by Sales
