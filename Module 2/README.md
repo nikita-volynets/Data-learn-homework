@@ -13,7 +13,7 @@ SELECT
 	SUM(sales)/COUNT(DISTINCT customer_id) sales_per_customer,
 	COUNT(DISTINCT order_id) orders,
 	ROUND( SUM(profit)/COUNT(DISTINCT order_id),1) profit_per_order
-FROM orders
+FROM orders o
 WHERE EXTRACT(YEAR FROM order_date) = 2019 AND EXTRACT(MONTH FROM order_date) = 9;
 ```
 
