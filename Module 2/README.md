@@ -20,7 +20,14 @@ WHERE EXTRACT(YEAR FROM order_date) = 2019 AND EXTRACT(MONTH FROM order_date) = 
 2. Sales and Profit dynamic
 
 ```sql
-
+SELECT
+		EXTRACT(YEAR FROM order_date) year_date,
+		EXTRACT(MONTH FROM order_date) month_date,
+		SUM(sales),
+		SUM(profit)
+FROM orders o 
+GROUP BY EXTRACT(YEAR FROM order_date), EXTRACT(MONTH FROM order_date)
+ORDER BY year_date, month_date ;
 ```
 
 3. Profit by Representative
