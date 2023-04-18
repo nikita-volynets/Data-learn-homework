@@ -57,5 +57,11 @@ ORDER BY profit DESC;
 6. Profit by the US states
 
 ```sql
-
+SELECT 
+	country,
+	state,
+	SUM(profit) profit 
+FROM orders o
+GROUP BY country , state 
+ORDER BY state;
 ```
