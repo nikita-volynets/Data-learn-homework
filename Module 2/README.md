@@ -21,10 +21,10 @@ WHERE EXTRACT(YEAR FROM order_date) = 2019 AND EXTRACT(MONTH FROM order_date) = 
 
 ```sql
 SELECT
-		EXTRACT(YEAR FROM order_date) year_date,
-		EXTRACT(MONTH FROM order_date) month_date,
-		SUM(sales),
-		SUM(profit)
+	EXTRACT(YEAR FROM order_date) year_date,
+	EXTRACT(MONTH FROM order_date) month_date,
+	SUM(sales),
+	SUM(profit)
 FROM orders o 
 GROUP BY EXTRACT(YEAR FROM order_date), EXTRACT(MONTH FROM order_date)
 ORDER BY year_date, month_date ;
