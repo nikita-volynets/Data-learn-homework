@@ -33,7 +33,14 @@ ORDER BY year_date, month_date ;
 3. Profit by Representative
 
 ```sql
-
+SELECT 
+	p.person,
+	SUM(profit) profit
+FROM orders o 
+LEFT JOIN people p ON p.region  =o.region
+WHERE EXTRACT(YEAR FROM order_date) = 2019 AND EXTRACT(MONTH FROM order_date) = 9
+GROUP BY p.person
+ORDER BY profit DESC;
 ```
 
 4. Sales and Profit by Category
