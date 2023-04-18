@@ -2,7 +2,7 @@
 
 ### KPI
 
-**1. Overview
+**1. Overview**
 
 ```sql
 SELECT
@@ -17,7 +17,7 @@ FROM orders o
 WHERE EXTRACT(YEAR FROM order_date) = 2019 AND EXTRACT(MONTH FROM order_date) = 9;
 ```
 
-**2. Sales and Profit dynamic
+**2. Sales and Profit dynamic**
 
 ```sql
 SELECT
@@ -30,7 +30,7 @@ GROUP BY EXTRACT(YEAR FROM order_date), EXTRACT(MONTH FROM order_date)
 ORDER BY year_date, month_date ;
 ```
 
-**3. Profit by Representative
+**3. Profit by Representative**
 
 ```sql
 SELECT 
@@ -43,7 +43,7 @@ GROUP BY p.person
 ORDER BY profit DESC;
 ```
 
-**4. Sales and Profit by Category
+**4. Sales and Profit by Category**
 
 ```sql
 SELECT DISTINCT 
@@ -56,12 +56,12 @@ GROUP BY segment , category
 ORDER BY segment ; 
 ```
 
-**5. TOP-5 Clients in each segment by Sales
+**5. TOP-5 Clients in each segment by Sales**
 
 ```sql
 
 ```
-**6. Profit by the US states
+**6. Profit by the US states**
 
 ```sql
 SELECT 
