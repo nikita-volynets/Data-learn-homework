@@ -3,7 +3,8 @@
 ### Overview - KPI
 
 ```sql
-SELECT SUM(profit) profit,
+SELECT 
+	SUM(profit) profit,
 	SUM(sales) sales,
 	AVG(discount) avg_discount,
 	COUNT(DISTINCT customer_id) customers,
