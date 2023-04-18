@@ -59,7 +59,47 @@ ORDER BY segment ;
 **5. TOP-5 Clients in each segment by Sales**
 
 ```sql
+WITH new_table AS (
 
+(SELECT DISTINCT 
+	segment,
+	customer_name  ,
+	SUM(sales) sales
+FROM orders o
+GROUP BY segment , customer_name  
+HAVING segment = 'Consumer'
+ORDER BY sales DESC
+LIMIT 5)
+
+UNION 
+
+(SELECT DISTINCT 
+	segment,
+	customer_name ,
+	SUM(sales) sales
+FROM orders o
+GROUP BY segment , customer_name  
+HAVING segment = 'Corporate'
+ORDER BY sales DESC
+LIMIT 5)
+
+UNION
+
+(SELECT DISTINCT 
+	segment,
+	customer_name ,
+	SUM(sales) sales
+FROM orders o
+GROUP BY segment , customer_name  
+HAVING segment = 'Home Office'
+ORDER BY sales DESC
+LIMIT 5)
+
+)
+
+SELECT *
+FROM new_table
+ORDER BY segment;
 ```
 **6. Profit by the US states**
 
