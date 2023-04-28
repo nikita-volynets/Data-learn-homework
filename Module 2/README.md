@@ -133,3 +133,16 @@ Created data models with [SqlDBM](https://sqldbm.com/)
 
 ![Physical](https://github.com/nikita-volynets/Data-learn-homework/blob/ead24abfb82418a927f4e1d941251059b505d9c9/Module%202/Images/model_physical.JPG)
 
+### 3. Dashboard
+
+Used AWS Lightsail to create a Postgres DB. Connected to the new DB through DBeaver and uploaded Superstore data.
+
+Created BI Dashboard with [Looker Studio](https://lookerstudio.google.com/)
+
+The dashboard is available at the link: [Superstore Dashboard](https://lookerstudio.google.com/s/mbNfnwsRMjc)
+
+
+
+
+
+
