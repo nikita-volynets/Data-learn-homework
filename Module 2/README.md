@@ -1,6 +1,10 @@
 # Module 2 - Homework
 
+Installed Postgres BD, DBeaver and created tables with Superstore data (I used sample file with sql query).
+
 ### 1. KPI
+
+Wrote queries to find KPIs from Module 1.
 
 **1.1 Overview**
 
