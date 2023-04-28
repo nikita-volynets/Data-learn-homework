@@ -141,7 +141,7 @@ Created BI Dashboard with [Looker Studio](https://lookerstudio.google.com/)
 
 The dashboard is available at the link: [Superstore Dashboard](https://lookerstudio.google.com/s/mbNfnwsRMjc)
 
-
+![Looker Dashboard](https://github.com/nikita-volynets/Data-learn-homework/blob/ac7d6a516c90bbe3709291bbe4945c5a45a78921/Module%202/Images/image_Dashboard_Looker.jpg)
 
 
 
