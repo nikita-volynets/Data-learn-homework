@@ -4,7 +4,7 @@ Installed Postgres BD, DBeaver and created tables with Superstore data (I used s
 
 ### 1. KPI
 
-Wrote queries to find KPIs from Module 1.
+Wrote queries to find key metrics from Module 1.
 
 **1.1 Overview**
 
