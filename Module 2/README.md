@@ -123,7 +123,7 @@ Created data models with [SqlDBM](https://sqldbm.com/)
 
 **2.1 Conceptual**
 
-![Logical](https://github.com/nikita-volynets/Data-learn-homework/blob/532bc3ab4cf8d282f458f6e22a18b4056c24cfa5/Module%202/Images/model_conceptual.JPG)
+![Conceptual](https://github.com/nikita-volynets/Data-learn-homework/blob/532bc3ab4cf8d282f458f6e22a18b4056c24cfa5/Module%202/Images/model_conceptual.JPG)
 
 **2.2 Logical**
 
@@ -131,5 +131,5 @@ Created data models with [SqlDBM](https://sqldbm.com/)
 
 **2.3 Physical**
 
-
+![Physical](https://github.com/nikita-volynets/Data-learn-homework/blob/ead24abfb82418a927f4e1d941251059b505d9c9/Module%202/Images/model_physical.JPG)
 
