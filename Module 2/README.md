@@ -119,11 +119,15 @@ ORDER BY state;
 
 ### 2. Data Models
 
+Created data models with [SqlDBM](https://sqldbm.com/)
+
 **2.1 Conceptual**
 
+![Logical](https://github.com/nikita-volynets/Data-learn-homework/blob/532bc3ab4cf8d282f458f6e22a18b4056c24cfa5/Module%202/Images/model_conceptual.JPG)
 
 **2.2 Logical**
 
+![Logical](https://github.com/nikita-volynets/Data-learn-homework/blob/532bc3ab4cf8d282f458f6e22a18b4056c24cfa5/Module%202/Images/model_logical.JPG)
 
 **2.3 Physical**
 
