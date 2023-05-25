@@ -8,3 +8,4 @@
 
 ## Create Airbnb Dashboard in Tableau
 
+1.1 Cleansing data in Tableau Prep Builder
