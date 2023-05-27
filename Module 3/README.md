@@ -20,3 +20,11 @@
 * Leave only useful fields with additional details about listings that we would like to use in our analysis: 
 **id, listing_url, picture_url, accomodates, bathrooms, bedrooms, beds, square_feet, price, weekly_price, monthly_price**
 * Fields **square_feet, weekly_price and monthly_price** are not included due to big amount of null values (> 90%), it's not enough for analysis
+
+#### 1.1.3 Calendar, Reviews_summary, neighbourhoods.geojson
+
+* No changes
+
+#### 1.1.4 Reviews, neighbourhoods
+
+* Not included in the analysis
