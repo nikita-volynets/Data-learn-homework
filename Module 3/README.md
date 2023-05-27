@@ -19,3 +19,4 @@
 
 * Leave only useful fields with additional details about listings that we would like to use in our analysis: 
 id, listing_url, picture_url, accomodates, bathrooms, bedrooms, beds, square_feet, price, weekly_price, monthly_price
+* Fields square_feet, weekly_price and monthly_price are not included due to big amount of null values (> 90%), it's not enough for analysis
