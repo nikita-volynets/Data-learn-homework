@@ -18,4 +18,4 @@
 #### 1.1.2 Listing_summary
 
 * Leave only useful fields with additional details about listings that we would like to use in our analysis: 
-* id, listing_url, picture_url, accomodates, bathrooms, bedrooms, beds, square_feet, price, weekly_price, monthly_price
+id, listing_url, picture_url, accomodates, bathrooms, bedrooms, beds, square_feet, price, weekly_price, monthly_price
