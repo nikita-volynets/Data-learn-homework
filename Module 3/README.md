@@ -6,7 +6,7 @@
 ## 2. Create Survey for Anatytics reports business users
 
 
-## 3. Create Airbnb Dashboard in Tableau
+## 3. Create Airbnb Analytical Tool in Tableau
 
 ### 3.1 Cleansing data in Tableau Prep Builder
 
