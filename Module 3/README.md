@@ -2,6 +2,9 @@
 
 ## 1. Create Superstore Dashboard in Tableau
 
+My Superstore Dashboard is available here: https://public.tableau.com/app/profile/nikita.volynets/viz/MySuperstore_Dashboard_16855895573830/KPIDynamicDashboard
+
+
 
 ## 2. Create Survey for Anatytics reports business users
 
