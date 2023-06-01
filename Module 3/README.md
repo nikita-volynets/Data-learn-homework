@@ -2,7 +2,7 @@
 
 ## 1. Create Superstore Dashboard in Tableau
 
-My Superstore Dashboard is available here: https://public.tableau.com/app/profile/nikita.volynets/viz/MySuperstore_Dashboard_16855895573830/KPIDynamicDashboard
+My Superstore Dashboard is available on Tableau Public: https://public.tableau.com/app/profile/nikita.volynets/viz/MySuperstore_Dashboard_16855895573830/KPIDynamicDashboard
 
 
 
