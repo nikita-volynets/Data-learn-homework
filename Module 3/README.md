@@ -9,14 +9,14 @@ In my Dashboard I practiced and included the following Tableau features:
 - Tableau Data Sources
 - Live/Extract
 - Dimensions/Measures/Filters
-Calculation Fields
-Parameters
-Table Calculations
-LOD
-Blending
-Federated Data Source
-Dashboard/View/Story
-Forecast/Trend/Clustering
+- Calculation Fields
+- Parameters
+- Table Calculations
+- LOD
+- Blending
+- Federated Data Source
+- Dashboard/View/Story
+- Forecast/Trend/Clustering
 
 ## 2. Create Survey for Anatytics reports business users
 
