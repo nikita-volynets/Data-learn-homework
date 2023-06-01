@@ -4,7 +4,19 @@
 
 My Superstore Dashboard is available on Tableau Public: [My Superstore Dashboard](https://public.tableau.com/app/profile/nikita.volynets/viz/MySuperstore_Dashboard_16855895573830/KPIDynamicDashboard)
 
+In my Dashboard I practiced and included the following Tableau features:
 
+- Tableau Data Sources
+- Live/Extract
+- Dimensions/Measures/Filters
+Calculation Fields
+Parameters
+Table Calculations
+LOD
+Blending
+Federated Data Source
+Dashboard/View/Story
+Forecast/Trend/Clustering
 
 ## 2. Create Survey for Anatytics reports business users
 
