@@ -25,7 +25,7 @@ In my Dashboard I practiced and included the following Tableau features:
 
 ### 3.1 Business Task
 
-**About the company:** Rental of long-term real estate with subsequent leasing for a short period.
+**About the company:** Real estate company - long-term rental with subsequent leasing the same property for a short period.
 
 **Task:** Create an analytical tool that will allow to analyze the short-term rental housing market in London.
 
