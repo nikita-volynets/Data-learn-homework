@@ -61,7 +61,11 @@ _id_, _listing_url_, _accomodates_, _bathrooms_, _bedrooms_, _beds_, _square_fee
 
 #### 3.3.3 Calendar, Reviews_summary, neighbourhoods.geojson
 
-* No changes
+`calendar` - 
+
+`reviews_summary` - 
+
+`neighbourhoods.geojson` - districts' geographical data
 
 #### 3.3.4 Reviews, neighbourhoods
 
