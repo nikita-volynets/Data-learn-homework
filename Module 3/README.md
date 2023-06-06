@@ -37,6 +37,10 @@ Using Canvas template collected all needed information about the Dashboard
 
 ![Canvas](https://github.com/nikita-volynets/Data-learn-homework/blob/bba638e65739138681c2d9f2cb455a50d339398c/Module%203/Images/Dashboard%20Canvas.jpg)
 
+Based on the previous information created Dashboard Mock Up
+
+
+
 ### 3.1 Cleansing data in Tableau Prep Builder
 
 #### 3.1.1 Listing_summary
