@@ -67,6 +67,8 @@ _id_, _listing_url_, _accomodates_, _bathrooms_, _bedrooms_, _beds_, _square_fee
 
 `neighbourhoods.geojson` - districts' geographical data
 
+No changes
+
 #### 3.3.4 Reviews, neighbourhoods
 
 * Not included in the analysis
