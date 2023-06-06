@@ -25,11 +25,11 @@ In my Dashboard I practiced and included the following Tableau features:
 
 ### 3.1 Business Task
 
-About the company: Rental of long-term real estate with subsequent leasing for a short period.
+**About the company:** Rental of long-term real estate with subsequent leasing for a short period.
 
-Task: Create an analytical tool that will allow to analyze the short-term rental housing market in London.
+**Task:** Create an analytical tool that will allow to analyze the short-term rental housing market in London.
 
-Goal: to choose the most attractive district and type of housing for investment
+**Goal:** to choose the most attractive district and type of housing for investment
 
 ### 3.1 Cleansing data in Tableau Prep Builder
 
