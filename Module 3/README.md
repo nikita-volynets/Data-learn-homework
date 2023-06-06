@@ -31,6 +31,11 @@ In my Dashboard I practiced and included the following Tableau features:
 
 **Goal:** to choose the most attractive district and type of housing for investment
 
+### 3.2 Dashboard Design
+
+
+
+
 ### 3.1 Cleansing data in Tableau Prep Builder
 
 #### 3.1.1 Listing_summary
