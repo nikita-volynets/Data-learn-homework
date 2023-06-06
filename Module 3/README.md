@@ -43,9 +43,9 @@ Based on the previous information created Dashboard Mock Up
 
 ### 3.3 Cleansing data in Tableau Prep Builder
 
-#### 3.3.1 Listing_summary
+#### 3.3.1 Listings_summary
 
-Summarized information about listings
+`listings_summary` - summarized information about listings
 
 **Remove:** `host_id`, `host_name` (useless for our analysis), `neighbourhood_group` (null values)
 
