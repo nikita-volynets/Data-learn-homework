@@ -44,7 +44,8 @@ Based on the previous information created Dashboard Mock Up
 ### 3.3 Cleansing data in Tableau Prep Builder
 
 #### 3.3.1 Listing_summary
-`Listing_summary` - summarized info about listings
+
+Summarized information about listings
 
 **Remove:** `host_id`, `host_name` (useless for our analysis), `neighbourhood_group` (null values)
 
@@ -52,7 +53,9 @@ Based on the previous information created Dashboard Mock Up
 
 #### 3.3.2 Listing
 
-* Leave only useful fields with additional details about listings that we would like to use in our analysis: 
+Full information about listings
+
+Leave only useful fields with additional details about listings that we would like to use in our analysis: 
 **id, listing_url, picture_url, accomodates, bathrooms, bedrooms, beds, square_feet, price, weekly_price, monthly_price**
 * Fields **square_feet, weekly_price and monthly_price** are not included due to big amount of null values (> 90%), it's not enough for analysis
 
