@@ -47,13 +47,13 @@ Based on the previous information created Dashboard Mock Up
 
 `listings_summary` - summarized information about listings
 
-**Remove:** **_host_id_**, _host_name_ (useless for our analysis), _neighbourhood_group_ (null values)
+**Remove:** _host_id_, _host_name_ (useless for our analysis), _neighbourhood_group_ (null values)
 
 **Rename:** `id` -> `listing_id`, `name` -> `listing_name` (for better clarity and connection with other tables)
 
 #### 3.3.2 Listings
 
-Full information about listings
+`listings` - full information about listings
 
 Leave only useful fields with additional details about listings that we would like to use in our analysis: 
 **id, listing_url, accomodates, bathrooms, bedrooms, beds, square_feet, price, weekly_price, monthly_price**
