@@ -48,7 +48,7 @@ Based on the previous information created Dashboard Mock Up
 
 **Remove:** `host_id`, `host_name` (useless for our analysis), `neighbourhood_group` (null values)
 
-**Rename:** `id` -> `lising_id`, `name` -> `listing_name` (for better clarity and connection with other tables)
+**Rename:** `id` -> `listing_id`, `name` -> `listing_name` (for better clarity and connection with other tables)
 
 #### 3.3.2 Listing
 
