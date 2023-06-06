@@ -33,8 +33,7 @@ In my Dashboard I practiced and included the following Tableau features:
 
 ### 3.2 Dashboard Design
 
-
-
+![Canvas](Module 3/Dashboard Canvas.jpg)
 
 ### 3.1 Cleansing data in Tableau Prep Builder
 
