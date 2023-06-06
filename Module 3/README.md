@@ -35,7 +35,7 @@ In my Dashboard I practiced and included the following Tableau features:
 
 Using Canvas template collected all needed information about the Dashboard
 
-![Canvas](https://github.com/nikita-volynets/Data-learn-homework/blob/cd0e0a6440383858e681b333409efde5796052ea/Module%203/Images/AirBnB%20Canvas.jpg)
+![Canvas](https://github.com/nikita-volynets/Data-learn-homework/blob/72a65ca3b0b6b9ea1ebcddc0abcf7f3dfe8e10f4/Module%203/Images/AirBnB%20Canvas.jpg)
 
 Based on the previous information created Dashboard Mock Up
 
