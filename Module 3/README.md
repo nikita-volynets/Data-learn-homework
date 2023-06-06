@@ -23,6 +23,14 @@ In my Dashboard I practiced and included the following Tableau features:
 
 ## 3. Create Airbnb Analytical Tool in Tableau
 
+### 3.1 Business Task
+
+О компании:
+
+Создать аналитический инструмент, который позволит проанализировать рынок краткосрочной аренды жилья в Лондонею
+
+Цель: выбрать наиболее привлекательный район и тип жилья для инвестиций
+
 ### 3.1 Cleansing data in Tableau Prep Builder
 
 #### 3.1.1 Listing_summary
