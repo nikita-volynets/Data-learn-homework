@@ -47,6 +47,7 @@ Based on the previous information created Dashboard Mock Up
 `Listing_summary` - summarized info about listings
 
 **Remove:** `host_id`, `host_name` (useless for our analysis), `neighbourhood_group` (null values)
+
 **Rename:** `id` -> `lising_id`, `name` -> `listing_name` (for better clarity and connection with other tables)
 
 #### 3.3.2 Listing
