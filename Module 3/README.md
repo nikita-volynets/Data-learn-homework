@@ -51,7 +51,7 @@ Summarized information about listings
 
 **Rename:** `id` -> `listing_id`, `name` -> `listing_name` (for better clarity and connection with other tables)
 
-#### 3.3.2 Listing
+#### 3.3.2 Listings
 
 Full information about listings
 
