@@ -61,9 +61,9 @@ _id_, _listing_url_, _accomodates_, _bathrooms_, _bedrooms_, _beds_, _square_fee
 
 #### 3.3.3 Calendar, Reviews_summary, neighbourhoods.geojson
 
-`calendar` - calendar of listings availability by day per year
+`calendar` - calendar of listing availability by day per year
 
-`reviews_summary` - 
+`reviews_summary` - summary information on reviews of the listing
 
 `neighbourhoods.geojson` - districts' geographical data
 
