@@ -53,11 +53,11 @@ Based on the previous information created Dashboard Mock Up
 
 #### 3.3.2 Listings
 
-_listings_ - full information about listings
+`listings` - full information about listings
 
 Leave only useful fields with additional details about listings that we would like to use in our analysis: 
 _id_, _listing_url_, _accomodates_, _bathrooms_, _bedrooms_, _beds_, _square_feet_, _price_, _weekly_price_, _monthly_price_
-* Fields **square_feet, weekly_price and monthly_price** are not included due to big amount of null values (> 90%), this is not enough for analysis
+* Fields _square_feet, weekly_price and monthly_price_ are not included due to big amount of null values (> 90%), this is not enough for analysis
 
 #### 3.3.3 Calendar, Reviews_summary, neighbourhoods.geojson
 
