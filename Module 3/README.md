@@ -39,7 +39,7 @@ Using Canvas template collected all needed information about the Dashboard
 
 Based on the previous information created Dashboard Mock Up
 
-
+![Wireframe]((https://github.com/nikita-volynets/Data-learn-homework/blob/07e749c906cbcbc3012db4781429bb0a62375d9e/Module%203/Images/AirBnB%20Wireframe.jpg)
 
 ### 3.1 Cleansing data in Tableau Prep Builder
 
