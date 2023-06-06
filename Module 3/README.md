@@ -41,23 +41,23 @@ Based on the previous information created Dashboard Mock Up
 
 ![Wireframe](https://github.com/nikita-volynets/Data-learn-homework/blob/07e749c906cbcbc3012db4781429bb0a62375d9e/Module%203/Images/AirBnB%20Wireframe.jpg)
 
-### 3.1 Cleansing data in Tableau Prep Builder
+### 3.3 Cleansing data in Tableau Prep Builder
 
-#### 3.1.1 Listing_summary
+#### 3.3.1 Listing_summary
 
 * Delete host_id, host_name - useless for our analysis, neighbourhood_group - null values
 * Rename id -> lising_id, name -> listing_name
 
-#### 3.1.2 Listing
+#### 3.3.2 Listing
 
 * Leave only useful fields with additional details about listings that we would like to use in our analysis: 
 **id, listing_url, picture_url, accomodates, bathrooms, bedrooms, beds, square_feet, price, weekly_price, monthly_price**
 * Fields **square_feet, weekly_price and monthly_price** are not included due to big amount of null values (> 90%), it's not enough for analysis
 
-#### 3.1.3 Calendar, Reviews_summary, neighbourhoods.geojson
+#### 3.3.3 Calendar, Reviews_summary, neighbourhoods.geojson
 
 * No changes
 
-#### 3.1.4 Reviews, neighbourhoods
+#### 3.3.4 Reviews, neighbourhoods
 
 * Not included in the analysis
